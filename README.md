@@ -1,33 +1,25 @@
-# 📘 知识库
+# 知识库
 
-## 💻 练手项目系列
+## 💻练手项目系列
 - **Tiny-RPC 、TinyBalancer**  
-  [🔗 了解更多](https://www.zhihu.com/question/369863905/answer/2444168149?utm_campaign=shareopn&utm_content=group1_Answer&utm_medium=social&utm_psn=1881589254443995460&utm_source=wechat_session)  
-  > 🎯 实践出真知！
+  [🔗 链接](https://www.zhihu.com/question/369863905/answer/2444168149?utm_campaign=shareopn&utm_content=group1_Answer&utm_medium=social&utm_psn=1881589254443995460&utm_source=wechat_session)
 
-## 📚 Golang基础知识书籍
+## 📚Golang基础知识书籍
 - **draveness.me/golang/**  
-  - _划重点_  
-    - **Slice原理**  
-      [🔗 查看详情](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part2-foundation/ch03-datastructure/golang-array-and-slice/)  
-    - **Map原理**  
-      [🔗 查看详情](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part2-foundation/ch03-datastructure/golang-hashmap/)  
-    - **Channel原理**  
-      [🔗 查看详情](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/)  
-    - **Go语言调度器与Goroutine实现原理**  
-      [🔗 查看详情](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-goroutine/)  
-    - **Go语言内存分配模型**  
-      [🔗 查看详情](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/)  
-    - **Go语言垃圾回收原理**  
-      [🔗 查看详情](https://link.zhihu.com/?target=https%3A//draveness.me/golang/doc)
+  - **划重点**
+    - **Slice原理**  [🔗 链接](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part2-foundation/ch03-datastructure/golang-array-and-slice/)
+    - **Map原理**  [🔗 链接](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part2-foundation/ch03-datastructure/golang-hashmap/)
+    - **Channel原理**  [🔗 链接](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/)
+    - **Go语言调度器与Goroutine实现原理**  [🔗 链接](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-goroutine/)
+    - **Go语言内存分配模型**  [🔗 链接](https://link.zhihu.com/?target=https%3A//draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/)
+    - **Go语言垃圾回收原理**  [🔗 链接](https://link.zhihu.com/?target=https%3A//draveness.me/golang/doc)
 
 - **Go语言原本**  
-  [🔗 GitHub地址](https://github.com/golang-design/under-the-hood)  
-  > 🌟 深入理解Go语言的核心机制！
+  [🔗 GitHub地址](https://github.com/golang-design/under-the-hood)
 
 ## 🔗 碎片知识/优质博客
 - **彩虹小驹的知乎分享**  
-  [🔗 阅读文章](https://www.zhihu.com/question/369863905/answer/2444168149?utm_campaign=shareopn&utm_content=group1_Answer&utm_medium=social&utm_psn=1881589254443995460&utm_source=wechat_session)
+  [🔗 文章链接](https://www.zhihu.com/question/369863905/answer/2444168149?utm_campaign=shareopn&utm_content=group1_Answer&utm_medium=social&utm_psn=1881589254443995460&utm_source=wechat_session)
 - **内存逃逸原理**  
   [🔗 文章链接](https://segmentfault.com/a/1190000040610063)
 - **Gopher毛的Github**  
@@ -45,7 +37,7 @@
 - **极客兔兔--七天系列**  
   [🔗 极客兔兔](https://geektutu.com/)
 
-## 💡 刷题
+## 💡刷题
 - **牛客网语言基础刷题**  
   [🔗 开始刷题](https://www.nowcoder.com/exam/oj?questionJobId=10&subTabName=online_coding_page)
 
@@ -58,8 +50,20 @@
   [🔗 不散件版面经](https://golang.design/go-questions/slice/vs-array/)
 - **Go面试宝典**  
   [🔗 宝典链接](https://goguide.ryansu.tech/guide/concepts/database/SQL/1-database-basic.html#%E5%85%B3%E7%B3%BB%E9%94%AE)
-- **JavaGuide**  
-  - Mysql数据库、Redis面经  
-    [🔗 数据库面经](https://javaguide.cn/database/mysql/mysql-questions-01.html)
-  - 计网、OS、Linux、数据结构、算法面经  
-    [🔗 技术面经](https://javaguide.cn/cs-basics/network/other-network-questions.html)
+- **散件面经**
+  - [🔗 面经一](https://www.zhihu.com/tardis/zm/art/519979757?source_id=1005)
+  - [🔗 面经二](https://blog.csdn.net/Bel_Ami_n/article/details/123352478)
+  - 实战：[🔗 实战一](https://zhuanlan.zhihu.com/p/684366515)
+  - [🔗 实战二](https://learnku.com/articles/56078)
+  - 煎鱼--trace：[🔗 文章链接](https://mp.weixin.qq.com/s?__biz=MzA4ODg0NDkzOA==&mid=2247487157&idx=1&sn=cbf1c87efe98433e07a2e58ee6e9899e&source=41#wechat_redirect)
+  - 实战：[🔗 实战三](https://segmentfault.com/a/1190000045455181)（太零碎仅供参考）
+- **Gopher毛散件golang面经**
+  - [🔗 Golang八股](https://github.com/mao888/golang-guide/blob/main/golang/go-Interview/GOALNG_INTERVIEW_COLLECTION.md)
+  - [🔗 Golang实战面经](https://github.com/mao888/golang-guide/tree/main/golang/go-Interview/%E5%AE%9E%E6%88%98)
+  - [🔗 Golang数据结构与算法总结](https://github.com/mao888/golang-guide/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E9%9D%A2%E7%BB%8F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95Guide%E3%80%90Golang%E5%AE%9E%E7%8E%B0%E3%80%91.md)
+
+## JavaGuide
+- **Mysql数据库、Redis面经**  
+  [🔗 数据库面经](https://javaguide.cn/database/mysql/mysql-questions-01.html)
+- **计网、OS、Linux、数据结构、算法面经**  
+  [🔗 技术面经](https://javaguide.cn/cs-basics/network/other-network-questions.html)
